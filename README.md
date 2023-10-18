@@ -20,7 +20,9 @@ Python Versi 3.10.12 atau Versi Diatasnya (Usahakan Versi Python 3.10)
 Link download : 
 https://www.python.org/downloads/
 
-![icon_drdrak](https://github.com/SholehUyee/DeteksiRak/assets/120776794/6c359daf-fe1e-4b9e-8243-88bf474c7e26)
-Deteksi Rak
-
 *Installer Only Data D or Data F, G, H or other, can't instal in data C
+
+![icon_drdrak](https://github.com/SholehUyee/DeteksiRak/assets/120776794/6c359daf-fe1e-4b9e-8243-88bf474c7e26)
+
+Deteksi Rak Build With Python
+ 
