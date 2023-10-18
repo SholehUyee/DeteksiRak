@@ -2,6 +2,8 @@
 *Program Deteksi Penggunaan Jumlah Rak Minimarket*
 GUI Desktop build with Python for Detection Rack in Image Desain Layout PT Adi Rak Minimarket Solo
 
+![Program_Main Menu](https://github.com/SholehUyee/DeteksiRak/assets/120776794/4e41d8e5-da31-4ae9-9df7-bc2381b0cd10)
+
 # Tentang
 Program ini dibuat menggunakan bahasa pemrograman python dengan library Tkinter untuk pengembangan program menjadi GUI sehingga memudahkan pengguna untuk mengakses program menggunakan perangkat Laptop ataupun Komputer, Program dapat digunakan untuk mendeteksi rak minimarket yang digunakan dalam desain layout dan tata ruangan yang didapat dari perusahaan PT Adi Rak Minimarket Solo. Program ini dapat digunakan untuk menentukan jumlah rak yang diperlukan tanpa harus memasukkan gambar desain terlebih dahulu jadi pengguna dapat memasukkan ukuran ruangan berupa panjang dan lebar dari ruangan, sistem secara otomatis akan menentukan jumlah rak minimarket yang dibutuhkan dari data masukkan user. Program dapat digunakan untuk melakukan perhitungan bagian dari rak minimarket seperti kebutuhan akan jumlah tiang dari rak, shelving dasar, backmash, brekect, dll sehingga pengguna tidak harus melakukan perhitungan manual satu persatu.
 
@@ -17,5 +19,8 @@ Python Versi 3.10.12 atau Versi Diatasnya (Usahakan Versi Python 3.10)
 
 Link download : 
 https://www.python.org/downloads/
+
+![icon_drdrak](https://github.com/SholehUyee/DeteksiRak/assets/120776794/6c359daf-fe1e-4b9e-8243-88bf474c7e26)
+Deteksi Rak
 
 *Installer Only Data D or Data F, G, H or other, can't instal in data C
